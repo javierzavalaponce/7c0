@@ -1,4 +1,5 @@
 Pagina web de Taller: 84
+-----------
 www.7c0.org
 
 Basado en un template hecho por NewBiz.
